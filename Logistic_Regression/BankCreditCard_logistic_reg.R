@@ -1,4 +1,4 @@
-BankCreditCard<- read.csv("C:/Users/Anuja Salvi/Documents/RWork/KPMG/Logistic_Regression", stringsAsFactors=TRUE)
+BankCreditCard<- read.csv("C:/Users/Anuja Salvi/Documents/RWork/KPMG/Logistic_Regression/BankCreditCard.csv", stringsAsFactors=TRUE)
 View(BankCreditCard)
 str(BankCreditCard) 
 
